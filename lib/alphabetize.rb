@@ -8,6 +8,7 @@ def alphabetize(arr)
     binding.pry
     phrase.split("").map do |character|
       binding.pry
+      
     end
   end
  
