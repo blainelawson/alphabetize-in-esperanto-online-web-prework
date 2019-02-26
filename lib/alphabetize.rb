@@ -3,5 +3,9 @@ require "pry"
 
 
 def alphabetize(arr)
-  binding.pry
+  
+  arr.each do |phrase|
+    binding.pry
+  end
+  
 end
